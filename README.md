@@ -1,0 +1,3 @@
+# Latest-Hulu-Clone
+I have become a little genius after designing this site....
+![screenshot](https://user-images.githubusercontent.com/96513716/184714693-0d28fd78-736b-4cf2-84fa-1bf2f63fa748.png)
